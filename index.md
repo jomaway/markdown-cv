@@ -1,91 +1,106 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jonas Malassa CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jonas Malassa
+B.Eng. Elektro- und Informationstechnik
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jonas.malassa@gmail.com">jonas.malassa@gmail.com</a>
+| Holzstraße 6, 90461 Nürnberg | +49 176 30 52 61 67
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Ausbildungsgang
 
 
-### Research interests
+`10/2014 – 09/2018`
+__Studium (B.Eng.) Elektro- und Informationstechnik__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- an der Technischen Hochschule Nürnberg
+
+`10/2013 – 09/2014`
+__Studium Technomathematik__
+
+- an der FH Würzburg/Schweinfurt
+
+`08/2012 - 02/2013`
+__Praxisausbildung Erlebnispädagoge__
+
+- bei GFE Erlebnistage.
+
+`09/2011 – 07/2012`
+__Fachabitur - Berufsoberschule Kitzingen__
+
+`2007 - 2010`
+__Berufsausbildung zum Fachinformatiker in Systemintegration__
+
+- an der Hochschule für Musik Würzuburg
+
+`2004 - 2007`
+__Mittlere Reife - Realschule Dettelbach.__
+
+`2001 - 2004`
+__Gymnasium Kitzingen__
+
+`1997 - 2001`
+__Grundschule__
+
+## Praktika/Jobs
+
+`04/2019 – now`
+__Werkstudent bei Methodpark__
+
+`04/2017 - 05/2018`
+__Werkstudent am Fraunhofer IIS__
+
+`09/2016 - 03/2017`
+__Praxissemester bei Methodpark__
+
+`10/2015 - 03/2017`
+__Tutor Ingenieurmathematk 1 & 2__
+
+- an der TH Nürnberg
+
+`07/2013 - 09/2013`
+__Selbsständiger Erlebnispädagopge__
 
 
-## Education
+## Auslandserfahrungen 
 
-`1654-1660`
-__The King's School, Grantham.__
+`09/2018 – 02/2019`
+__Auslandserfahrung Südamerika__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`04/2013 – 09/2013`
+__Outdoor Guide, Erlebnispädage__
 
-- Sizar
+- im Youth Center Metsäkartano, Finnland.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`09/2010 - 08/2011`
+__Work and Travel Neuseeland__
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Tätigkeiten: Hostel,Bar,Farm,...
 
 
+## Ehrenamtliches Engagement
 
-## Publications
+`2009 - 2018`
+__Jugendleiter bei der DPSG__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Woodbage (Internationale Leiterausbildung)
+- Teamertraining (Ausbildung zum Teamer für Woodbadgekurse)
 
-### Journals
+`2010 - 2015`
+__Arbeitskreis Pfadfinderstufe__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- DPSG, Diozese Würzburg, 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2008-2010`
+__Jugendleiter bei der KJG__
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
 
 
