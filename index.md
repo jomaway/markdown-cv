@@ -81,7 +81,7 @@ __Work and Travel Neuseeland__
 - Tätigkeiten: Hostel,Bar,Farm,...
 
 
-## Ehrenamtliches Engagement
+## Ehrenamt
 
 `2009 - 2018`
 __Jugendleiter bei der DPSG__
